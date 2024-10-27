@@ -1,6 +1,6 @@
 # Database Interacation in Web Applications
 
-This demonstrates the cconnection of MySQL database and Node.js to create a simple API
+This demonstrates the connection of MySQL database and Node.js to create a simple API
 
 ## Requirements
 - [Node.js](https://nodejs.org/) installed
